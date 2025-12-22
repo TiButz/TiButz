@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @TiButz
 - 👀 I’m interested in UI5, SAP, SAP CAP, Cloud Native Development,.. 
-- 🌱 I’m currently learning Docker and how to do a manual on the mountainbike 
 - 💞️ I’m looking to collaborate on ... - still an observer
 - 📫 How to reach me ...
 
