@@ -1,7 +1,3 @@
-- 👋 Hi, I’m @TiButz
-- 👀 I’m interested in UI5, SAP, SAP CAP, Cloud Native Development,.. 
-- 💞️ I’m looking to collaborate on ... - still an observer
-- 📫 How to reach me ...
 
 <!---
 TiButz/TiButz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
